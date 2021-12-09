@@ -1,0 +1,23 @@
+body
+{
+color:rgb(71, 4, 57);
+background-color:rgb(221, 177, 214);
+}
+.heading
+{
+font-size: 40px;
+letter-spacing: 2px;
+font-family: Arial, Helvetica, sans-serif;
+width: 80%;
+}
+.name_of_faces,#result_face_name,#result_face_accuracy 
+{
+    font: size 20px;
+}
+#camera,#result
+{
+    border: 2px solid wheat;
+    border-radius: 20px;
+    width:350px;
+    height:350px;
+}
